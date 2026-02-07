@@ -10,5 +10,11 @@
   },
   "engines": {
     "node": ">=20"
+  },
+  "devDependencies": {
+    "cheerio": "^1.2.0",
+    "pixelmatch": "^7.1.0",
+    "playwright": "^1.58.2",
+    "pngjs": "^7.0.0"
   }
 }

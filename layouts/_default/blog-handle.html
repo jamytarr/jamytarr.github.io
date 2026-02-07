@@ -3,8 +3,11 @@
   {{ if .Content }}
     <article class="prose">{{ .Content }}</article>
   {{ end }}
+
+  {{ $handle := .Params.blog_handle_filter }}
+  {{ $pages := where (where .Site.RegularPages "Section" "blog") "Params.blog_handle" $handle }}
   <ul class="list-items">
-    {{ range .Pages.ByTitle }}
+    {{ range $pages.ByDate.Reverse }}
       <li class="list-item">
         <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         {{ with .Date }}<p class="meta">{{ .Format "Jan 2, 2006" }}</p>{{ end }}
@@ -12,7 +15,7 @@
         {{ with $snippet }}<p>{{ . | truncate 220 }}</p>{{ end }}
       </li>
     {{ else }}
-      <li>No content yet.</li>
+      <li>No posts found for this blog.</li>
     {{ end }}
   </ul>
 {{ end }}

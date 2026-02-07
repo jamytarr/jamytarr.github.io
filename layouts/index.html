@@ -1,23 +1,63 @@
 {{ define "main" }}
-  <h1>{{ .Site.Title }}</h1>
-  {{ with .Content }}<section class="prose">{{ . | safeHTML }}</section>{{ end }}
+  {{ with .Site.Params.hero_image }}
+    <section class="hero">
+      <a class="hero-link" href="{{ $.Site.Params.hero_link }}">
+        <div class="hero-media" style="background-image: url('{{ . }}');"></div>
+        <div class="hero-overlay">
+          <p class="hero-kicker">{{ $.Site.Params.hero_text }}</p>
+        </div>
+      </a>
+      <a class="hero-scroll" href="#home-sections" aria-label="Scroll to content">
+        <span class="hero-scroll-arrow"></span>
+      </a>
+    </section>
+  {{ end }}
 
-  <section class="grid">
-    <article class="card">
-      <h2><a href="/products/">Products</a></h2>
-      <p>{{ len (where .Site.RegularPages "Section" "products") }} items</p>
-    </article>
-    <article class="card">
-      <h2><a href="/collections/">Collections</a></h2>
-      <p>{{ len (where .Site.RegularPages "Section" "collections") }} items</p>
-    </article>
-    <article class="card">
-      <h2><a href="/pages/">Pages</a></h2>
-      <p>{{ len (where .Site.RegularPages "Section" "pages") }} items</p>
-    </article>
-    <article class="card">
-      <h2><a href="/blog/">Blog</a></h2>
-      <p>{{ len (where .Site.RegularPages "Section" "blog") }} posts</p>
-    </article>
+  <section id="home-sections">
+    {{ with .Content }}<section class="prose intro">{{ . | safeHTML }}</section>{{ end }}
+
+    {{ with site.Data.homepage_live }}
+      {{ range .columns }}
+        <section class="live-section">
+          <div class="live-wrapper">
+            {{ with .subtitle }}<h4 class="live-subtitle">{{ . }}</h4>{{ end }}
+            <div class="live-grid">
+              {{ range .items }}
+                <article class="live-card">
+                  <a href="{{ .link }}" class="live-card-link">
+                    <img src="{{ .image }}" alt="{{ .title }}" class="live-image" loading="lazy" />
+                  </a>
+                  <h5 class="live-title">{{ .title }}</h5>
+                  {{ with .description_html }}<div class="live-copy">{{ . | safeHTML }}</div>{{ end }}
+                  <a href="{{ .link }}" class="live-btn">{{ .link_text }}</a>
+                </article>
+              {{ end }}
+            </div>
+          </div>
+        </section>
+      {{ end }}
+
+      {{ with .blog_banner }}
+        <section class="blog-banner">
+          <a href="{{ .link }}" class="blog-banner-link">
+            <img src="{{ .image }}" alt="Blog banner" class="blog-banner-image" loading="lazy" />
+            <span class="blog-banner-btn">{{ .button_text }}</span>
+          </a>
+        </section>
+      {{ end }}
+
+      {{ with .newsletter }}
+        <section class="newsletter">
+          <div class="newsletter-inner">
+            <h4 class="live-subtitle">{{ .title }}</h4>
+            <div class="newsletter-copy">{{ .body_html | safeHTML }}</div>
+            <form class="newsletter-form" action="#" method="post">
+              <input type="email" placeholder="your-email@example.com" aria-label="Email address" />
+              <button type="submit">Join</button>
+            </form>
+          </div>
+        </section>
+      {{ end }}
+    {{ end }}
   </section>
 {{ end }}

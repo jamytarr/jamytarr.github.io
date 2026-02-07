@@ -4,6 +4,9 @@ title = "Store Archive"
 
 [params]
   description = "Archived storefront content exported from Shopify"
+  hero_text = "The Offering"
+  hero_link = "/collections/large-abstract-paintings/"
+  hero_image = "/brand/home-hero.jpg"
 
 [markup]
   [markup.goldmark]

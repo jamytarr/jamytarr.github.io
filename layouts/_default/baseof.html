@@ -9,19 +9,30 @@
   </head>
   <body>
     <header class="header">
-      <a href="/" class="logo">{{ .Site.Title }}</a>
-      <nav>
-        <a href="/products/">Products</a>
-        <a href="/collections/">Collections</a>
-        <a href="/pages/">Pages</a>
-        <a href="/blog/">Blog</a>
-      </nav>
+      <div class="header-inner">
+        <a href="/" class="logo" aria-label="J'Amy Tarr Home">
+          <img src="/brand/logo.jpg" alt="J'Amy Tarr" class="logo-image" />
+        </a>
+        <nav class="site-nav" aria-label="Primary">
+          <a href="/collections/large-abstract-paintings/">Canvas</a>
+          <a href="/collections/works-on-paper/">Paper | Panel</a>
+          <a href="/pages/artist-statement/">Statement</a>
+          <a href="/pages/about-jamy/">About</a>
+          <a href="/blog/">Blog</a>
+          <a href="/pages/heroes/">100 Heroes</a>
+          <a href="/blog/press/">Fashion Press</a>
+          <a href="/pages/contact/">Contact</a>
+        </nav>
+      </div>
     </header>
+
     <main class="container">
       {{ block "main" . }}{{ end }}
     </main>
+
     <footer class="footer">
-      <p>Generated from Shopify data.</p>
+      <p>&copy; {{ now.Year }} {{ .Site.Title }}</p>
+      <p class="footer-note">Archived storefront content.</p>
     </footer>
   </body>
 </html>

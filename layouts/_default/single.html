@@ -1,14 +1,14 @@
 {{ define "main" }}
-  <article>
-    <h1>{{ .Title }}</h1>
+  <article class="entry{{ if eq .Section "blog" }} entry-blog{{ end }}">
+    <h1 class="page-title">{{ .Title }}</h1>
     <p class="meta">Updated {{ .Lastmod.Format "Jan 2, 2006" }}</p>
     {{ with .Params.featured_image }}
-      <figure>
+      <figure class="entry-image">
         <img src="{{ . }}" alt="{{ $.Params.featured_image_alt }}" loading="lazy" />
       </figure>
     {{ end }}
     {{ with .Params.image }}
-      <figure>
+      <figure class="entry-image">
         <img src="{{ . }}" alt="{{ $.Params.image_alt }}" loading="lazy" />
       </figure>
     {{ end }}
