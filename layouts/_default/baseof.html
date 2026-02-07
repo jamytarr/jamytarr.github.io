@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ .Site.Params.description }}" />
+    <link rel="stylesheet" href="/css/site.css" />
+  </head>
+  <body>
+    <header class="header">
+      <a href="/" class="logo">{{ .Site.Title }}</a>
+      <nav>
+        <a href="/products/">Products</a>
+        <a href="/collections/">Collections</a>
+        <a href="/pages/">Pages</a>
+        <a href="/blog/">Blog</a>
+      </nav>
+    </header>
+    <main class="container">
+      {{ block "main" . }}{{ end }}
+    </main>
+    <footer class="footer">
+      <p>Generated from Shopify data.</p>
+    </footer>
+  </body>
+</html>

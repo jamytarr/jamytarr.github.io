@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <article>
+    <h1>{{ .Title }}</h1>
+    <p class="meta">Updated {{ .Lastmod.Format "Jan 2, 2006" }}</p>
+    {{ with .Params.featured_image }}
+      <figure>
+        <img src="{{ . }}" alt="{{ $.Params.featured_image_alt }}" loading="lazy" />
+      </figure>
+    {{ end }}
+    {{ with .Params.image }}
+      <figure>
+        <img src="{{ . }}" alt="{{ $.Params.image_alt }}" loading="lazy" />
+      </figure>
+    {{ end }}
+    <section class="prose">{{ .RawContent | safeHTML }}</section>
+    {{ with .Params.online_store_url }}
+      <p><a href="{{ . }}" target="_blank" rel="noreferrer">View original on Shopify</a></p>
+    {{ end }}
+  </article>
+{{ end }}

@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <h1>{{ .Site.Title }}</h1>
+  {{ with .Content }}<section class="prose">{{ . | safeHTML }}</section>{{ end }}
+
+  <section class="grid">
+    <article class="card">
+      <h2><a href="/products/">Products</a></h2>
+      <p>{{ len (where .Site.RegularPages "Section" "products") }} items</p>
+    </article>
+    <article class="card">
+      <h2><a href="/collections/">Collections</a></h2>
+      <p>{{ len (where .Site.RegularPages "Section" "collections") }} items</p>
+    </article>
+    <article class="card">
+      <h2><a href="/pages/">Pages</a></h2>
+      <p>{{ len (where .Site.RegularPages "Section" "pages") }} items</p>
+    </article>
+    <article class="card">
+      <h2><a href="/blog/">Blog</a></h2>
+      <p>{{ len (where .Site.RegularPages "Section" "blog") }} posts</p>
+    </article>
+  </section>
+{{ end }}

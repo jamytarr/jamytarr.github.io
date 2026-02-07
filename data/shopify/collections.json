@@ -1,0 +1,387 @@
+[
+  {
+    "id": "gid://shopify/Collection/32868420",
+    "title": "-",
+    "handle": "jackets",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:35:46Z",
+    "image": {
+      "url": "https://cdn.shopify.com/s/files/1/0182/5617/collections/Jackets-Lead-image-website-Sept-2018_2990fede-bde0-4f1a-bf03-adeb49ed3149.jpg?v=1537972173",
+      "altText": ""
+    },
+    "productsCount": {
+      "count": 45
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/32868484",
+    "title": "-",
+    "handle": "coats",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:36:20Z",
+    "image": {
+      "url": "https://cdn.shopify.com/s/files/1/0182/5617/collections/Coats-Lead-image-website-Sept-2018.jpg?v=1537972034",
+      "altText": ""
+    },
+    "productsCount": {
+      "count": 14
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/445874128",
+    "title": "-",
+    "handle": "capes",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:35:45Z",
+    "image": {
+      "url": "https://cdn.shopify.com/s/files/1/0182/5617/collections/Capes-Lead-image-website-Sept-2018.jpg?v=1537971872",
+      "altText": ""
+    },
+    "productsCount": {
+      "count": 15
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/157625516143",
+    "title": "100 Jackets for 100 Strong Women",
+    "handle": "100jackets",
+    "descriptionHtml": "<div style=\"text-align: center;\"><br></div>\n<div style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0182/5617/files/Red_and_Black_Hearts_Health_Fair_Flyer_11_480x480.jpg?v=1587048403\" alt=\"\"></div>",
+    "updatedAt": "2023-10-18T00:36:20Z",
+    "image": null,
+    "productsCount": {
+      "count": 45
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/156176416879",
+    "title": "BIKER JACKETS",
+    "handle": "biker-jackets",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:34:50Z",
+    "image": null,
+    "productsCount": {
+      "count": 14
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/156176679023",
+    "title": "BLANKET COATS",
+    "handle": "blanket-coats",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:35:46Z",
+    "image": null,
+    "productsCount": {
+      "count": 7
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/162438414447",
+    "title": "BLAZERS",
+    "handle": "blazers",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:35:41Z",
+    "image": null,
+    "productsCount": {
+      "count": 7
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/95615090799",
+    "title": "BOMBER JACKETS",
+    "handle": "bombers",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:36:20Z",
+    "image": null,
+    "productsCount": {
+      "count": 19
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/165930893423",
+    "title": "Bombers & Blankets Black Friday Sale",
+    "handle": "bombers-blankets-black-friday-sale",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:35:46Z",
+    "image": {
+      "url": "https://cdn.shopify.com/s/files/1/0182/5617/collections/Peach_Black_Friday_Sale_Your_Story.png?v=1606170708",
+      "altText": null
+    },
+    "productsCount": {
+      "count": 17
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/164558438511",
+    "title": "Capelets",
+    "handle": "capelets",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:34:52Z",
+    "image": null,
+    "productsCount": {
+      "count": 13
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/156176384111",
+    "title": "CAPES",
+    "handle": "capes-1",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:35:45Z",
+    "image": null,
+    "productsCount": {
+      "count": 11
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/280447189103",
+    "title": "Fall/Winter Collection",
+    "handle": "fall-winter-collection",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:35:46Z",
+    "image": null,
+    "productsCount": {
+      "count": 39
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/156179136623",
+    "title": "FUNNEL NECKS",
+    "handle": "funnel-neck",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:35:43Z",
+    "image": null,
+    "productsCount": {
+      "count": 4
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/8148487",
+    "title": "Holiday 2012",
+    "handle": "frontpage",
+    "descriptionHtml": "",
+    "updatedAt": "2022-05-07T00:21:25Z",
+    "image": {
+      "url": "https://cdn.shopify.com/s/files/1/0182/5617/collections/24.jpg?v=1349921399",
+      "altText": null
+    },
+    "productsCount": {
+      "count": 0
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/156176744559",
+    "title": "KIMONOS",
+    "handle": "kimono",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:35:46Z",
+    "image": null,
+    "productsCount": {
+      "count": 8
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/32868548",
+    "title": "Lightweight Jackets",
+    "handle": "lightweight-outerwear",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:35:39Z",
+    "image": {
+      "url": "https://cdn.shopify.com/s/files/1/0182/5617/collections/LACE-BOMBER-black-FINAL.jpg?v=1439592834",
+      "altText": null
+    },
+    "productsCount": {
+      "count": 11
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/156800352367",
+    "title": "MONOPRINTS",
+    "handle": "monoprint-for-apple-watch-download",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:34:54Z",
+    "image": null,
+    "productsCount": {
+      "count": 8
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/156176515183",
+    "title": "MOTO JACKETS",
+    "handle": "moto-jackets",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:34:48Z",
+    "image": null,
+    "productsCount": {
+      "count": 17
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/11444757",
+    "title": "Outerwear Collection",
+    "handle": "outerwear",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:36:20Z",
+    "image": null,
+    "productsCount": {
+      "count": 75
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/155665563759",
+    "title": "SALE",
+    "handle": "sale",
+    "descriptionHtml": "Final Sale Items",
+    "updatedAt": "2023-10-18T00:36:20Z",
+    "image": null,
+    "productsCount": {
+      "count": 23
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/164100964463",
+    "title": "SALE",
+    "handle": "member-sale",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:35:37Z",
+    "image": null,
+    "productsCount": {
+      "count": 12
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/162983510127",
+    "title": "SHOP ALL",
+    "handle": "shop-all",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:35:46Z",
+    "image": null,
+    "productsCount": {
+      "count": 57
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/155745091695",
+    "title": "Short Kimono",
+    "handle": "short-kimono",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:35:46Z",
+    "image": null,
+    "productsCount": {
+      "count": 3
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/162724151407",
+    "title": "Spring & Summer Jackets",
+    "handle": "summer-jackets",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:35:41Z",
+    "image": null,
+    "productsCount": {
+      "count": 17
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/164100702319",
+    "title": "Spring Collection",
+    "handle": "fall-collection",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:35:41Z",
+    "image": null,
+    "productsCount": {
+      "count": 19
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/186168261",
+    "title": "Spring Jackets",
+    "handle": "spring-jackets",
+    "descriptionHtml": "Perfect spring weight jackets for the Bay Area",
+    "updatedAt": "2023-10-18T00:35:38Z",
+    "image": {
+      "url": "https://cdn.shopify.com/s/files/1/0182/5617/collections/Moto-Jacket-Flat.jpg?v=1457983815",
+      "altText": null
+    },
+    "productsCount": {
+      "count": 21
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/280728240239",
+    "title": "Stone Foxx - Anne Grimes",
+    "handle": "stone-foxx-anne-grimes",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:35:41Z",
+    "image": {
+      "url": "https://cdn.shopify.com/s/files/1/0182/5617/collections/Copy_of_Favorite_jacket_2.png?v=1634579959",
+      "altText": null
+    },
+    "productsCount": {
+      "count": 3
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/157687578735",
+    "title": "T-Shirts",
+    "handle": "t-shirts",
+    "descriptionHtml": "",
+    "updatedAt": "2023-10-18T00:32:40Z",
+    "image": null,
+    "productsCount": {
+      "count": 6
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/163275800687",
+    "title": "The Friday Girls - Illustrations",
+    "handle": "the-friday-girls-original-illustrations",
+    "descriptionHtml": "",
+    "updatedAt": "2024-02-01T17:52:06Z",
+    "image": null,
+    "productsCount": {
+      "count": 20
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/285466722415",
+    "title": "Works On Canvas",
+    "handle": "large-abstract-paintings",
+    "descriptionHtml": "A collection of large scale paintings created from <meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Charcoal, Graphite, Inks, Spray Paint and Acrylic on Canvas.</span>",
+    "updatedAt": "2025-03-20T18:01:36Z",
+    "image": {
+      "url": "https://cdn.shopify.com/s/files/1/0182/5617/collections/IMG_80A2A1870941-1.jpg?v=1700082858",
+      "altText": ""
+    },
+    "productsCount": {
+      "count": 21
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/285469376623",
+    "title": "Works on Paper - Portraiture",
+    "handle": "portraits-in-oil",
+    "descriptionHtml": "",
+    "updatedAt": "2024-01-06T22:25:10Z",
+    "image": {
+      "url": "https://cdn.shopify.com/s/files/1/0182/5617/collections/Portrait-in-dark.jpg?v=1697495264",
+      "altText": null
+    },
+    "productsCount": {
+      "count": 11
+    }
+  },
+  {
+    "id": "gid://shopify/Collection/285467148399",
+    "title": "Works On Paper | Panel",
+    "handle": "works-on-paper",
+    "descriptionHtml": "Hand Painted Collage",
+    "updatedAt": "2024-01-17T15:26:06Z",
+    "image": {
+      "url": "https://cdn.shopify.com/s/files/1/0182/5617/collections/Orion_Nebula_in_Bloom.jpg?v=1697397713",
+      "altText": null
+    },
+    "productsCount": {
+      "count": 7
+    }
+  }
+]

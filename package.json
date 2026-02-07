@@ -1,0 +1,14 @@
+{
+  "name": "shopify-to-hugo-exporter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Export Shopify store data into a Hugo static site",
+  "scripts": {
+    "export": "node src/export-shopify.mjs",
+    "build": "hugo --minify"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,19 @@
++++
+title = "Softer than Velvet: Fur Bomber Jacket"
+date = "2016-11-20T23:06:00Z"
+lastmod = "2019-05-21T17:19:20Z"
+blog_title = "Sketchbook"
+blog_handle = "sketchbook"
+author = "J'Amy Tarr"
+tags = ["Moodboard", "November"]
+excerpt = "<meta charset=\"utf-8\"><a href=\"https://jamytarr.com/blogs/sketchbook/softer-than-velvet-fur-bomber-jacket\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/shopify-assets/cdn.shopify.com/s/files/1/0182/5617/files/Moodboard_Faux_Fur_Bomber_1024x1024-8f9669a1.jpg\" alt=\"Black Velvet Mood Board\"></a>"
+image = "/shopify-assets/cdn.shopify.com/s/files/1/0182/5617/articles/Screen_Shot_2019-05-21_at_10.19.09_AM-ce6691d4.png"
+image_alt = ""
+draft = false
++++
+<p>The month of November is the start of the holiday season. Cold weather, crisp winds, heavy rain and even snow are in store for us in the coming months. Since we’re an outerwear company, we absolutely love this kind of weather! <br><br>During each month of the fall season, we’ve committed to releasing a new style. <br><br>November’s new style is - Fur Bomber Jacket in onyx. It’s a classic style with a glamorous twist; the fabric is a luxurious, decadent faux fur that’s softer than velvet.</p>
+<p><br><strong>Star Quality Fabric</strong><br><br>Velvet is making its mark this fall/winter season; from shoes to dresses - this textile is popping up all over the place! <br><br>During the design and sourcing stage of the Fur Bomber Jacket last year, J’Amy committed to finding fabrics that were exceptional. This high-shine, sumptuous cotton/rayon faux fur blend was not only incredible to look at, it also felt like silk.</p>
+<p><img src="/shopify-assets/cdn.shopify.com/s/files/1/0182/5617/files/Moodboard_Faux_Fur_Bomber_1024x1024-8f9669a1.jpg" alt="Black Velvet Mood Board" style="display: block; margin-left: auto; margin-right: auto;"><br><br><strong>Hollywood Glamour </strong><br><br>This exquisite fabric is a nod to 1950's Hollywood glamour. <br><br>Actresses had transfixing power that could transcended any camera lens - film or photograph. During this Golden Age of cinema, certain traits arose that defined feminine sophistication and style forever. <br><br>The finish, high shine and luscious texture of the Fur Bomber Jacket in Onyx brought to mind this classic Hollywood period for us. Sometimes you want to channel the glamour of Old Hollywood, and this jacket will take you there.</p>
+<p><img src="/shopify-assets/cdn.shopify.com/s/files/1/0182/5617/files/Old_Hollywood_Mood_Board_1024x1024-40641370.jpg" alt="Hollywood Glamour Style Beauty" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p> </p>
+<p>(Photo credits - Black Fur Bomber Mood Board - <a href="http://lisahewitt.tumblr.com/post/67627272890/noirsinoir-kink" target="_blank" title="Dark Rope" rel="noopener noreferrer">here</a>, <a href="http://www.brucegray.com/htmlfolder/html_subpages/ice.html" target="_blank" title="Bruce Grey Black Art" rel="noopener noreferrer">here</a>, <a href="http://www.bloom-magazine.eu/librairie/Bloom02/files/page11-1061-full.html" target="_blank" title="Black Tulip Bloom Magazine" rel="noopener noreferrer">here</a>, <a href="http://death-by-elocution.tumblr.com/post/137764821955/" target="_blank" title="Black Fur Hair Feathers" rel="noopener noreferrer">here</a>, <a href="http://linxspiration.com/page/7" target="_blank" title="Black Smoke" rel="noopener noreferrer">here</a> // Hollywood Mood Board - <a href="http://www.americancomposers.org/hollywood.jpg" target="_blank" title="Hollywood Sign" rel="noopener noreferrer">here</a>, <a href="https://s-media-cache-ak0.pinimg.com/originals/64/6c/e3/646ce38adfe478842a3bdba0b024497e.jpg" target="_blank" title="Chinese Theater Hollywood" rel="noopener noreferrer">here</a>, <a href="https://s-media-cache-ak0.pinimg.com/236x/5b/4c/25/5b4c25477b8578d7f3d426ac3dfffa19.jpg" target="_blank" title="Marilyn Monroe Black Dress" rel="noopener noreferrer">here</a> )</p>

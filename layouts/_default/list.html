@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ if .Content }}
+    <article class="prose">{{ .Content }}</article>
+  {{ end }}
+  <ul class="card-list">
+    {{ range .Pages.ByTitle }}
+      <li class="card">
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        {{ with .Date }}<p class="meta">{{ .Format "Jan 2, 2006" }}</p>{{ end }}
+        {{ with .Params.excerpt }}<p>{{ . }}</p>{{ end }}
+      </li>
+    {{ else }}
+      <li>No content yet.</li>
+    {{ end }}
+  </ul>
+{{ end }}
