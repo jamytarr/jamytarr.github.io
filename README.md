@@ -1,7 +1,6 @@
 # Shopify -> Hugo -> GitHub Pages
 
 This project exports Shopify content into a Hugo static site so you can keep your storefront content online without running the Shopify app.  
-test
 
 ## What it exports
 - Products
